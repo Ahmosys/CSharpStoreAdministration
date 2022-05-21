@@ -1,0 +1,1348 @@
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\IAPM.exe.config
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\IAPM.exe
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\IAPM.pdb
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.Licensing.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.Utils.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.FrmConnexion.resources
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.Properties.Resources.resources
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.csproj.GenerateResource.cache
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.exe.licenses
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.csproj.CopyComplete
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.exe
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.pdb
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\IAPM.exe.config
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\IAPM.exe
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\IAPM.pdb
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.Licensing.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.Utils.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.FrmConnexion.resources
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.FrmMenu.resources
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.Properties.Resources.resources
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.csproj.GenerateResource.cache
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.exe.licenses
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.csproj.CopyComplete
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.exe
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.pdb
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\GumroadLicensing.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Kimtoo.Reports.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\OpenHtmlToPdf.dll
+C:\Users\root\Desktop\IAPM - Copie\IAPM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.FrmListeClient.resources
+C:\Users\root\Desktop\IAPM - Copie\IAPM\obj\Debug\IAPM.Form1.resources
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\GumroadLicensing.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Kimtoo.Reports.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\OpenHtmlToPdf.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.FrmListeClient.resources
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.FrmMenu.resources
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\RestSharp.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Buffers.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Memory.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Text.Json.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.ValueTuple.dll
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\RestSharp.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Buffers.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Memory.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Text.Json.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\root\Desktop\IAPM\IAPM\bin\Debug\System.ValueTuple.xml
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.FrmListeProduit.resources
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.FrmListeCommande.resources
+C:\Users\root\Desktop\IAPM\IAPM\obj\Debug\IAPM.FrmListeFournisseur.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\IAPM.exe.config
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\IAPM.exe
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\IAPM.pdb
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.Licensing.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.Utils.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\GumroadLicensing.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Kimtoo.Reports.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Newtonsoft.Json.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\OpenHtmlToPdf.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\RestSharp.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Buffers.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Memory.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Text.Json.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.ValueTuple.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Newtonsoft.Json.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\RestSharp.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Buffers.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Memory.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Text.Json.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.ValueTuple.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.csproj.AssemblyReference.cache
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.FrmConnexion.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.FrmListeClient.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.FrmMenu.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.FrmListeProduit.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.FrmListeCommande.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.FrmListeFournisseur.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.Properties.Resources.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.csproj.GenerateResource.cache
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.exe.licenses
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.csproj.CoreCompileInputs.cache
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.csproj.CopyComplete
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.exe
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.pdb
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.Formulaires.Form1.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\IAPM.exe.config
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\IAPM.exe
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\IAPM.pdb
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.Licensing.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.Utils.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\GumroadLicensing.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Kimtoo.Reports.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\OpenHtmlToPdf.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\RestSharp.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Buffers.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Memory.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Text.Json.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.ValueTuple.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\RestSharp.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Buffers.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Memory.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Text.Json.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\bin\Debug\System.ValueTuple.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.Form1.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.FrmConnexion.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.FrmListeClient.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.FrmMenu.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.FrmListeProduit.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.FrmListeCommande.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.FrmListeFournisseur.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.Properties.Resources.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.csproj.GenerateResource.cache
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.exe.licenses
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.csproj.CopyComplete
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.exe
+C:\Users\root\Desktop\RobinBoutique_Bunifu_22_03_2021\IAPM\obj\Debug\IAPM.pdb
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\IAPM.exe.config
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\IAPM.exe
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\IAPM.pdb
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.Licensing.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.Utils.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\GumroadLicensing.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Kimtoo.Reports.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Newtonsoft.Json.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\OpenHtmlToPdf.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\RestSharp.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Buffers.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Memory.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Text.Json.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.ValueTuple.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Newtonsoft.Json.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\RestSharp.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Buffers.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Memory.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Text.Json.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.ValueTuple.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.AssemblyReference.cache
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.SuggestedBindingRedirects.cache
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmConnexion.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmListeClient.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmMenu.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmListeProduit.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmListeCommande.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmListeFournisseur.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.Properties.Resources.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.GenerateResource.cache
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.exe.licenses
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.CoreCompileInputs.cache
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.CopyComplete
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.exe
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.pdb
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmRechClient.resources
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\IAPM.exe.config
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\IAPM.exe
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\IAPM.pdb
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.Licensing.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.Utils.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\GumroadLicensing.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Kimtoo.Reports.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\OpenHtmlToPdf.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\RestSharp.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Buffers.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Memory.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Text.Json.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.ValueTuple.dll
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\RestSharp.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Buffers.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Memory.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Text.Json.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.ValueTuple.xml
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.AssemblyReference.cache
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmConnexion.resources
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmListeClient.resources
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmMenu.resources
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmListeProduit.resources
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmListeCommande.resources
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmListeFournisseur.resources
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmRechClient.resources
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.Properties.Resources.resources
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.GenerateResource.cache
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.exe.licenses
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.CoreCompileInputs.cache
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.CopyComplete
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.exe
+C:\Users\hugo.robin\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.pdb
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\IAPM.exe.config
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\IAPM.exe
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\IAPM.pdb
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.Licensing.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.Utils.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\GumroadLicensing.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Kimtoo.Reports.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\OpenHtmlToPdf.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\RestSharp.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Buffers.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Memory.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Text.Json.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.ValueTuple.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\RestSharp.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Buffers.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Memory.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Text.Json.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\bin\Debug\System.ValueTuple.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmConnexion.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmListeClient.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmMenu.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmListeProduit.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmListeCommande.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmListeFournisseur.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmRechClient.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmRechCommande.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmRechProduit.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.FrmRechFournisseur.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.Properties.Resources.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.GenerateResource.cache
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.exe.licenses
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.csproj.CopyComplete
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.exe
+C:\Users\root\Desktop\RobinBoutique_Bunifu_23_03_2021\IAPM\obj\Debug\IAPM.pdb
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\IAPM.exe.config
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\IAPM.exe
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\IAPM.pdb
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.Licensing.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.Utils.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\GumroadLicensing.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Kimtoo.Reports.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\OpenHtmlToPdf.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\RestSharp.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Buffers.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Memory.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Text.Json.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.ValueTuple.dll
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\RestSharp.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Buffers.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Memory.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Text.Json.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\bin\Debug\System.ValueTuple.xml
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.FrmConnexion.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.FrmListeClient.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.FrmMenu.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.FrmListeProduit.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.FrmListeCommande.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.FrmListeFournisseur.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.FrmRechClient.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.FrmRechCommande.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.FrmRechProduit.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.FrmRechFournisseur.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.Properties.Resources.resources
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.csproj.GenerateResource.cache
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.exe.licenses
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.csproj.CopyComplete
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.exe
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.pdb
+C:\Users\root\Desktop\RobinBoutique_Bunifu_27_03_2021\IAPM\obj\Debug\IAPM.FrmAMSClient.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\IAPM.exe.config
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\IAPM.exe
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\IAPM.pdb
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.Licensing.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.Utils.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\GumroadLicensing.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Kimtoo.Reports.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Newtonsoft.Json.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\OpenHtmlToPdf.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\RestSharp.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Buffers.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Memory.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Text.Json.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.ValueTuple.dll
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Newtonsoft.Json.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\RestSharp.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Buffers.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Memory.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Text.Json.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.ValueTuple.xml
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.AssemblyReference.cache
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.Form1.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmConnexion.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmListeClient.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmMenu.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmListeProduit.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmListeCommande.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmListeFournisseur.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmRechClient.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmRechCommande.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmRechProduit.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmRechFournisseur.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmAMSClient.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.Properties.Resources.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.GenerateResource.cache
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.exe.licenses
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.CoreCompileInputs.cache
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.CopyComplete
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.exe
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.pdb
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\IAPM.exe.config
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\IAPM.exe
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\IAPM.pdb
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.Licensing.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.Utils.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\GumroadLicensing.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Kimtoo.Reports.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Newtonsoft.Json.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\OpenHtmlToPdf.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\RestSharp.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Buffers.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Memory.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Text.Json.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.ValueTuple.dll
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Newtonsoft.Json.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\RestSharp.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Buffers.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Memory.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Text.Json.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.ValueTuple.xml
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.AssemblyReference.cache
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmConnexion.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmListeClient.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmMenu.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmListeProduit.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmListeCommande.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmListeFournisseur.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmRechClient.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmRechCommande.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmRechProduit.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmRechFournisseur.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmAMSClient.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmAMSFournisseur.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmAMSProduit.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmAMSCommande.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.Properties.Resources.resources
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.GenerateResource.cache
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.exe.licenses
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.CoreCompileInputs.cache
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.CopyComplete
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.exe
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.pdb
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmDetailCommande.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmAMSFournisseur.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmAMSProduit.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmAMSCommande.resources
+E:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmDetailCommande.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\IAPM.exe.config
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\IAPM.exe
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\IAPM.pdb
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.Licensing.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.Utils.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\GumroadLicensing.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Kimtoo.Reports.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Newtonsoft.Json.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\OpenHtmlToPdf.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\RestSharp.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Buffers.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Memory.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Text.Json.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.ValueTuple.dll
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\Newtonsoft.Json.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\RestSharp.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Buffers.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Memory.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Numerics.Vectors.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Text.Encodings.Web.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Text.Json.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\bin\Debug\System.ValueTuple.xml
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.AssemblyReference.cache
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.SuggestedBindingRedirects.cache
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.Form1.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmConnexion.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmListeClient.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmMenu.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmListeProduit.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmListeCommande.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmListeFournisseur.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmRechClient.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmRechCommande.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmRechProduit.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmRechFournisseur.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmAMSClient.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmAMSFournisseur.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmAMSProduit.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmAMSCommande.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmDetailCommande.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.Properties.Resources.resources
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.GenerateResource.cache
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.exe.licenses
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.CoreCompileInputs.cache
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.CopyComplete
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.exe
+D:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.pdb
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.csproj.SuggestedBindingRedirects.cache
+F:\ETUDES\BTS SIO\2EME ANNÉE\PROJETS\DÉVELOPPEMENT\C#\GESTION BOUTIQUE PPE\RobinBoutique_Bunifu_29_03_2021\IAPM\obj\Debug\IAPM.FrmActivation.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\IAPM.exe.config
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\IAPM.exe
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\IAPM.pdb
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.Licensing.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.Utils.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\GumroadLicensing.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Kimtoo.Reports.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Newtonsoft.Json.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\OpenHtmlToPdf.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\RestSharp.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Buffers.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Memory.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Numerics.Vectors.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Text.Encodings.Web.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Text.Json.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.ValueTuple.dll
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\Newtonsoft.Json.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\RestSharp.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Buffers.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Memory.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Numerics.Vectors.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Text.Encodings.Web.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Text.Json.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\bin\Debug\System.ValueTuple.xml
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.csproj.AssemblyReference.cache
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.csproj.SuggestedBindingRedirects.cache
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmConnexion.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmListeClient.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmMenu.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmListeProduit.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmListeCommande.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmListeFournisseur.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmRechClient.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmRechCommande.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmRechProduit.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmRechFournisseur.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmAMSClient.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmAMSFournisseur.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmAMSProduit.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmAMSCommande.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmDetailCommande.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmActivation.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.Properties.Resources.resources
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.csproj.GenerateResource.cache
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.exe.licenses
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.csproj.CoreCompileInputs.cache
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.csproj.CopyComplete
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.exe
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.pdb
