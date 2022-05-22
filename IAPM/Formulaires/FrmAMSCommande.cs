@@ -66,23 +66,30 @@ namespace IAPM
         {
             if (btnAjouter.Text == "Valider")
             {
-                int idCommande = GestionBoutique.genererClePrimaire("idCommande", "commande");
-                int idClient = Convert.ToInt32(drpDownClientCommande.SelectedValue);
-                string patronymeClient = drpDownClientCommande.Text;
-                string dateCommande = dtPickerCommande.Value.ToShortDateString();
+                try // Capture l'exception soulevé par le déclencheur
+                {
+                    int idCommande = GestionBoutique.genererClePrimaire("idCommande", "commande");
+                    int idClient = Convert.ToInt32(drpDownClientCommande.SelectedValue);
+                    string patronymeClient = drpDownClientCommande.Text;
+                    string dateCommande = dtPickerCommande.Value.ToShortDateString();
 
-                GestionCommande.ajouterCommande(idCommande, dateCommande, idClient);
-                snackBarAMSCommande.Show(this, "L'ajout a bien été effectué, redirection vers le formulaire d'ajout de produit...", Bunifu.UI.WinForms.BunifuSnackbar.MessageTypes.Success, 2500);
-                desactiverTextBox();
-                rafraichirAffichage();
-                changeInProgress = false;
-                btnAjouter.Text = "Nouvelle commande";
-                btnModif.Enabled = true;
-                btnSuppr.Enabled = true;
-                btnConsulter.Enabled = true;
-                Task.Delay(500);
-                FrmDetailCommande frmDetailCommande = new FrmDetailCommande(idCommande, dateCommande, patronymeClient);
-                Utilitaire.afficherForm(this, frmDetailCommande);
+                    GestionCommande.ajouterCommande(idCommande, dateCommande, idClient);
+                    snackBarAMSCommande.Show(this, "L'ajout a bien été effectué, redirection vers le formulaire d'ajout de produit...", Bunifu.UI.WinForms.BunifuSnackbar.MessageTypes.Success, 2500);
+                    desactiverTextBox();
+                    rafraichirAffichage();
+                    changeInProgress = false;
+                    btnAjouter.Text = "Nouvelle commande";
+                    btnModif.Enabled = true;
+                    btnSuppr.Enabled = true;
+                    btnConsulter.Enabled = true;
+                    Task.Delay(500);
+                    FrmDetailCommande frmDetailCommande = new FrmDetailCommande(idCommande, dateCommande, patronymeClient);
+                    Utilitaire.afficherForm(this, frmDetailCommande);
+                }
+                catch (Exception ex) // Affiche le message d'erreur provenant du déclencheur (!verifSoldeInsert)
+                {
+                    snackBarAMSCommande.Show(this, ex.Message, Bunifu.UI.WinForms.BunifuSnackbar.MessageTypes.Error, 2500);
+                }      
             }
             else
             {
