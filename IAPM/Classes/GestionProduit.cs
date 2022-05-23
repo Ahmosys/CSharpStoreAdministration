@@ -32,6 +32,39 @@ namespace IAPM.Metier
         }
 
         /// <summary>
+        /// Permet de récupérer les produits figurant en suggestion dans la base de données pour l'affichage dans le DGV.
+        /// </summary>
+        /// <returns></returns>
+        public static DataTable getLesProduitsSuggestion()
+
+        {
+            return GestionBoutique.executerRequeteSelect("CALL `!GetLesProduitsSuggestion`()", "TousLesProduitsSuggestion");
+        }
+
+        /// <summary>
+        /// Permet de récuperer les produits affilité/suggérer à un produit.
+        /// </summary>
+        /// <param name="idProduitSuggestion"></param>
+        /// <returns></returns>
+        public static DataTable getLesProduitsSuggererByIdProduitSuggestion(int idProduitSuggestion)
+
+        {
+            return GestionBoutique.executerRequeteSelect("CALL `!GetLesProduitsSuggerer`('" + idProduitSuggestion + "')", "TousLesProduitsSuggerer");
+        }
+        
+        /// <summary>
+        /// Permet de récuperer les produits affilité/suggérer à un produit.
+        /// </summary>
+        /// <param name="idProduitSuggestion"></param>
+        /// <returns></returns>
+        public static DataTable getLesProduitsNonSuggererByIdProduitSuggestion(int idProduitSuggestion)
+
+        {
+            return GestionBoutique.executerRequeteSelect("CALL `!GetLesProduitsNonSuggerer`('" + idProduitSuggestion + "')", "TousLesProduitNonSuggerer");
+        }
+
+
+        /// <summary>
         /// Permet de récupérer les produits associés à une catégorie dans la base de données.
         /// </summary>
         /// <param name="idCategorie"></param>
@@ -110,12 +143,32 @@ namespace IAPM.Metier
         }
 
         /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="idProduitSuggestion"></param>
+        /// <param name="idProduitSuggerer"></param>
+        public static void ajouterProduitSuggerer(int idProduitSuggestion, int idProduitSuggerer)
+        {
+            GestionBoutique.executerRequeteAction("CALL `!insertProduitSuggestion`('" + idProduitSuggestion +"', '"+ idProduitSuggerer +"')");
+        }
+        
+
+        /// <summary>
         /// Permet de supprimer un produit dans la base de données.
         /// </summary>
         /// <param name="codeProduit"></param>
         public static void supprimerProduit(int codeProduit)
         {
             GestionBoutique.executerRequeteAction("DELETE FROM produit Where idProduit = " + codeProduit + "");
+        }
+
+        /// <summary>
+        /// Permet de supprimer un produit suggerer affilité à un produit dans la base de données.
+        /// </summary>
+        /// <param name="codeProduit"></param>
+        public static void supprimerProduitSuggerer(int idProduitSuggestion, int idProduitSuggerer)
+        {
+            GestionBoutique.executerRequeteAction("CALL `!DeleteProduitSuggestion`('" + idProduitSuggestion + "', '" + idProduitSuggerer + "')");
         }
 
         /// <summary>

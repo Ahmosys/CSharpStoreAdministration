@@ -114,6 +114,10 @@ namespace IAPM
                     FrmListeProduit frmListeProduit = new FrmListeProduit();
                     Utilitaire.afficherForm(this, frmListeProduit);
                     break;
+                case "liste produit • suggestion":
+                    FrmListeProduitSuggerer frmListeProduitSuggerer = new FrmListeProduitSuggerer();
+                    Utilitaire.afficherForm(this, frmListeProduitSuggerer);
+                    break;
                 case "ajout • suppr • modif":
                     FrmAMSProduit frmAmProduit = new FrmAMSProduit();
                     Utilitaire.afficherForm(this, frmAmProduit);

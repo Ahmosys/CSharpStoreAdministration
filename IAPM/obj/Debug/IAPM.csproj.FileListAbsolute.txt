@@ -1346,3 +1346,4 @@ D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IA
 D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.csproj.CopyComplete
 D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.exe
 D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.pdb
+D:\shortcuts\DESKTOP\GITHUB_PROJECTS\CSharpStoreAdministration\IAPM\obj\Debug\IAPM.FrmListeProduitSuggerer.resources

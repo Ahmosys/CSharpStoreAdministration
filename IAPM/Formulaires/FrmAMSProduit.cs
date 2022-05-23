@@ -46,7 +46,7 @@ namespace IAPM
             if (tbIdProduit.Text != "")
             {
                 string nom = dgvAMSProduit.Rows[dgvAMSProduit.CurrentCell.RowIndex].Cells[1].Value.ToString();
-                if (MessageBox.Show("Etes-vous sûr de vouloir supprimer ce fournisseur (" + nom + ") ?", "Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                if (MessageBox.Show("Etes-vous sûr de vouloir supprimer ce produit (" + nom + ") ?", "Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
                     GestionProduit.supprimerProduit(Convert.ToInt32(tbIdProduit.Text));
                     dgvAMSProduit.DataSource = GestionProduit.getLesProduitsDG();
